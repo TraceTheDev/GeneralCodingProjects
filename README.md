@@ -95,5 +95,5 @@ Miscellaneous useful programs for input/output, parsing, or reports.
 
 ## Author
 **Trace Davis**  
-- GitHub: [https://github.com/Trace0727](https://github.com/Trace0727)  
+- GitHub: Trace0727 
 - LinkedIn: [https://www.linkedin.com/in/trace-d-926380138/](https://www.linkedin.com/in/trace-d-926380138/)
