@@ -55,6 +55,7 @@ See the [LICENSE] file for full details.
 
 
 ## Author
+
 **Trace Davis**  
-- GitHub: [Trace0727](https://github.com/Trace0727)  
+- GitHub: [TraceTheDev](https://github.com/TraceTheDev)  
 - LinkedIn: [Trace Davis](https://www.linkedin.com/in/trace-d-926380138/)
