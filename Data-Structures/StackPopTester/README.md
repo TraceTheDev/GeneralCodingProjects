@@ -79,6 +79,7 @@ See the [LICENSE] file for full details.
 ---
 
 ## Author
+
 **Trace Davis**  
-- GitHub: https://github.com/Trace0727  
-- LinkedIn: https://www.linkedin.com/in/trace-d-926380138/
+- GitHub: [TraceTheDev](https://github.com/TraceTheDev)  
+- LinkedIn: [Trace Davis](https://www.linkedin.com/in/trace-d-926380138/)
